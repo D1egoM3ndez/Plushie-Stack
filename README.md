@@ -2,8 +2,8 @@
 
 ## Controles
 
-Left Arrow -> Mover a la izquierda /n
-Right Arrow -> Mover a la derecha /n
+Left Arrow -> Mover a la izquierda <br>
+Right Arrow -> Mover a la derecha <br>
 Space -> Soltar peluche
 
 ## Créditos y autores
