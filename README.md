@@ -1,4 +1,4 @@
-### Plushie Stack
+# Plushie Stack
 
 ## Controles
 
