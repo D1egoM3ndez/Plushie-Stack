@@ -1,3 +1,11 @@
+###Plushie Stack
+
+##Controles
+
+Left Arrow -> Mover a la izquierda
+Right Arrow -> Mover a la derecha
+Space -> Soltar peluche
+
 ## Créditos y autores
 
 | Recurso | Autor |
