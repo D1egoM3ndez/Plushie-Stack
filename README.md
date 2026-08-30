@@ -4,7 +4,7 @@
 | --- | --- |
 | Sprites de peluches | Diego Méndez |
 | Sprites de la garra | Diego Méndez |
-| Fondos e interfaces visuales | Generados con ChatGPT (OpenAI) bajo indicaciones de Diego Méndez |
+| Fondos e interfaces visuales | Generados con ChatGPT (OpenAI) | 
 
 ## Referencias
 
