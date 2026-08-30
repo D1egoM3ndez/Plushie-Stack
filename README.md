@@ -1,6 +1,6 @@
-###Plushie Stack
+### Plushie Stack
 
-##Controles
+## Controles
 
 Left Arrow -> Mover a la izquierda
 Right Arrow -> Mover a la derecha
